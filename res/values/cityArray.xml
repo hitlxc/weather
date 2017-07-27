@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array name="province">
+		<item>-省份-</item>
+		<item>黑龙江</item>
+		<item>辽宁</item>
+	</string-array>
+	<string-array name="hlj">
+		<item>-城市-</item>
+		<item>哈尔滨</item>
+		<item>齐齐哈尔</item>
+		<item>双鸭山</item>
+		<item>大庆</item>
+	</string-array>
+
+   	<string-array name="ln">
+		<item>-城市-</item>
+		<item>沈阳</item>
+		<item>大连</item>
+		<item>铁岭</item>
+		<item>本溪</item>
+   </string-array>
+</resources>            
